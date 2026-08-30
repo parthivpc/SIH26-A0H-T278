@@ -5,24 +5,24 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T278
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<Nexus>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |         Parthiv         |    CB.EN.U4ELC26132    |       Male      |      B.Tech EEE / ELC           |  
+|    Member 2     |         Ishanth         |    CB.EN.U4ELC26120    |       Male      |      B.Tech EEE / ELC           |  
+|    Member 3     |         Gouresh         |    CB.EN.U4ELC26117    |       Male      |      B.Tech EEE / ELC           |  
+|    Member 4     |         Harinandan      |    CB.EN.U4ELC26118    |       Male      |      B.Tech EEE / ELC           |   
+|    Member 5     |         Samyukta        |    CB.EN.U4ELC26135    |     Female      |      B.Tech EEE / ELC           |  
+|    Member 6     |         Girija          |    CB.EN.U4ELC26116    |     Female      |      B.Tech EEE / ELC           |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |   Dr.Resmi          |  Assistant proffesor  |           EEE           |  r_resmi@cb.amrita.edu   |
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -31,14 +31,14 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26039**
+* **Problem Statement Title: Al-Powered Underground Mine Safety, Monitoring and Rescue System.**
+* **Theme / Category: Smart Automation**
+* **Ministry / Organization: Governmcnt of Jharkhand**
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26040**
+* **Problem Statement Title: Smart Water Purification and Quality Monitoring System for Rural and Mining-Affected Areas**
+* **Theme / Category: Clean & Green Technology**
+* **Ministry / Organization: Governmcnt of Jharkhand**
