@@ -35,6 +35,7 @@
 * **Problem Statement Title: Al-Powered Underground Mine Safety, Monitoring and Rescue System.**
 * **Theme / Category: Smart Automation**
 * **Ministry / Organization: Governmcnt of Jharkhand**
+* Presentation video:https://youtu.be/RetAMUJyDx0?si=t8lxbyvAiOx-Iq-n
 
 #### PS#2
 
