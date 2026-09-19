@@ -9,14 +9,14 @@
 ### Team Details
 #### **Team Name** <<Nexus>> <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |         Parthiv         |    CB.EN.U4ELC26132    |       Male      |      B.Tech EEE / ELC           |  
-|    Member 2     |         Ishanth         |    CB.EN.U4ELC26120    |       Male      |      B.Tech EEE / ELC           |  
-|    Member 3     |         Gouresh         |    CB.EN.U4ELC26117    |       Male      |      B.Tech EEE / ELC           |  
-|    Member 4     |         Harinandan      |    CB.EN.U4ELC26118    |       Male      |      B.Tech EEE / ELC           |   
-|    Member 5     |         Samyukta        |    CB.EN.U4ELC26135    |     Female      |      B.Tech EEE / ELC           |  
-|    Member 6     |         Girija          |    CB.EN.U4ELC26116    |     Female      |      B.Tech EEE / ELC           |   
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |  Caste Category  | Disability Details |
+|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:----------------:|:------------------:| 
+|   Team Leader   |         Parthiv         |    CB.EN.U4ELC26132    |       Male      |      B.Tech EEE / ELC           |        OC        |        None        |
+|    Member 2     |         Ishanth         |    CB.EN.U4ELC26120    |       Male      |      B.Tech EEE / ELC           |        OC        |        None        |
+|    Member 3     |         Gouresh         |    CB.EN.U4ELC26117    |       Male      |      B.Tech EEE / ELC           |        BC        |        None        |
+|    Member 4     |         Harinandan      |    CB.EN.U4ELC26118    |       Male      |      B.Tech EEE / ELC           |        OC        |        None        |
+|    Member 5     |         Samyukta        |    CB.EN.U4ELC26135    |     Female      |      B.Tech EEE / ELC           |        OC        |        None        |
+|    Member 6     |         Girija          |    CB.EN.U4ELC26116    |     Female      |      B.Tech EEE / ELC           |        OC        |        None        |
 
 #### Mentor Details
 
