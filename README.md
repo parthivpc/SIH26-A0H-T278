@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |   Dr.Resmi          |  Assistant proffesor  |           EEE           |  r_resmi@cb.amrita.edu   |
+| Academic       |   Dr.Resmi          |  Asst.proffesor       |           EEE           |  r_resmi@cb.amrita.edu   |
 | Industry       |                     |                       |                         |                          |
 
 -----
