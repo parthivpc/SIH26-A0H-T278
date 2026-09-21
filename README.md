@@ -34,7 +34,7 @@
 * **Problem Statement ID: SIH26039**
 * **Problem Statement Title: Al-Powered Underground Mine Safety, Monitoring and Rescue System.**
 * **Theme / Category: Smart Automation**
-* **Ministry / Organization: Governmcnt of Jharkhand**
+* **Ministry / Organization: Government of Jharkhand**
 * Presentation video:https://youtu.be/RetAMUJyDx0?si=t8lxbyvAiOx-Iq-n
 
 #### PS#2
@@ -42,4 +42,4 @@
 * **Problem Statement ID: SIH26040**
 * **Problem Statement Title: Smart Water Purification and Quality Monitoring System for Rural and Mining-Affected Areas**
 * **Theme / Category: Clean & Green Technology**
-* **Ministry / Organization: Governmcnt of Jharkhand**
+* **Ministry / Organization: Government of Jharkhand**
