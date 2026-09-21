@@ -12,4 +12,4 @@
 * **Problem Statement ID: SIH26040**
 * **Problem Statement Title: Smart Water Purification and Quality Monitoring System for Rural and Mining-Affected Areas**
 * **Theme / Category: Clean & Green Technology**
-* **Ministry / Organization: Governmcnt of Jharkhand**
+* **Ministry / Organization: Government of Jharkhand**
